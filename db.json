@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "firstName": "kishor",
+      "lastName": "jagtap",
+      "email": "kumar@gmail.com",
+      "mobile": 12346,
+      "salary": 332,
+      "id": 3
+    },
+    {
+      "firstName": "jayesh",
+      "lastName": "jadav",
+      "email": "jayesh@gmail.com",
+      "mobile": 123456789,
+      "salary": 32000,
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
