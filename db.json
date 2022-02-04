@@ -17,7 +17,36 @@
       "id": 4
     }
   ],
-  "comments": [],
+  "SignupUsers": [
+    {
+      "fullName": "kishor",
+      "email": "kishor@gmail.com",
+      "password": "123",
+      "mobile": 123,
+      "id": 1
+    },
+    {
+      "fullName": "jayesh",
+      "email": "jayesh@gmail.com",
+      "password": "123",
+      "mobile": 123,
+      "id": 2
+    },
+    {
+      "fullName": "rahul",
+      "email": "kishor@gmail.com",
+      "password": "123",
+      "mobile": 123,
+      "id": 3
+    },
+    {
+      "fullName": "kishor",
+      "email": "kishor@gmail.com",
+      "password": "123",
+      "mobile": 123,
+      "id": 4
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
