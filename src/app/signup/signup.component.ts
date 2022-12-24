@@ -27,7 +27,6 @@ public signupForm !:FormGroup;
       {
         alert("SignUp Successfully");
         console.log(res);
-        
         this.signupForm.reset();
         this.router.navigate(["login"]);
       },err=>
